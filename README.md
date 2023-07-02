@@ -1,1 +1,1 @@
-# primes
+# Prime Number Algorithm
