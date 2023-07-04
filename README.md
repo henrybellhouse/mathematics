@@ -1,3 +1,5 @@
-# Algorithm for Prime Numbers
+# Computational Mathematics
 
-This algorithm generates all prime numbers in a range of values that is specified by the user.
+This code has been developed from problem sets in CS50 from Harvard University.
+
+Problems have been selected for their subject matter and relevancy in mathematics.
