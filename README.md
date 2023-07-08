@@ -16,4 +16,4 @@ Taking an upper and lower bound, this program locates and outputs all primes in 
 
 ### Triangle Test
 
-Given user generated side lenghts, this algorithm tests the lengths against triangle rules to establish if a triangle can be made from these values.
+Given user generated values, this algorithm tests the lengths against triangle rules to establish if a triangle can be made from these values.
