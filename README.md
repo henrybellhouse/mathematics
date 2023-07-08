@@ -8,11 +8,11 @@ Problems have been selected for their subject matter and relevancy in mathematic
 
 ### Factorial
 
-This program takes a numerical input and calculates the factorial for this number recursively.
+This program takes a numerical input and calculates its factorial using recursion.
 
 ### Primes
 
-Taking an upper and lower bound, this program locates and outputs all primes in the provided range.
+Taking an upper and lower bound, this program locates and outputs all primes in the provided range. The values in are included in the range.
 
 ### Triangle Test
 
