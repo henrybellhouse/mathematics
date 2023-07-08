@@ -8,7 +8,7 @@ Problems have been selected for their subject matter and relevancy in mathematic
 
 ### Factorial
 
-This program takes a numerical input and calculates its factorial using recursion.
+This program takes a positive integer input and calculates its factorial using recursion.
 
 ### Primes
 
